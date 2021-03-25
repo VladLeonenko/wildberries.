@@ -56,7 +56,7 @@ for (const scrollLink of scrollLinks){
 const more = document.querySelector('.more')
 const navigationLink = document.querySelectorAll('.navigation-link')
 const longGoodsList = document.querySelector('.long-goods-list')
-const categoryButton = document.querySelectorAll('.category-button')
+//const categoryButton = document.querySelectorAll('.category-button')
 
 
 
